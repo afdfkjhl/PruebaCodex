@@ -1,0 +1,2 @@
+Placeholder de implementación:
+Aquí describe brevemente qué hará el archivo principal cuando se implemente la práctica.
